@@ -682,7 +682,7 @@
     <message id="contact-detail-birthday">
         <source>Birthday</source>
         <extracomment>Contact detail label</extracomment>
-        <translation>Fødselsdag</translation>
+        <translation>F	ødselsdag</translation>
     </message>
     <message id="contact-detail-note">
         <source>Note</source>
